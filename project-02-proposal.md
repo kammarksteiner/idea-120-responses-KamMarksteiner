@@ -1,0 +1,1 @@
+For my green screen project, I plan to place myself on a ferris wheel. I will be appropriating the footage of the ferris wheel for this. I hope to make it appear as if I am sitting on the seat in the ferris wheel as the wheel turns.
