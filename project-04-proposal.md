@@ -1,0 +1,3 @@
+For my portfolio, I am going to make a home page for my site that has a small preview of all my projects. Clicking on them will lead to a seperate page where you can learn more about the project and see it in full size. I will also obe doing a fourth project to put in my portfolio. I currently plan on making a drawing using TextMode Art. This style of art can be described as ASCII art or similar. I feel like this art style fits in well with the semester's curriculum, and will reflect many of the aspects we've explored.
+
+The colour pallet of my website will likely either be a black background with white text as I like this style and find it's easy on the eyes, or a lighter pallet with the main colour being yellow as it is my favourite and I feel reflects me well.
